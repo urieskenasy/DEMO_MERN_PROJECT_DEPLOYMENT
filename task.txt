@@ -1,0 +1,2 @@
+- install reactjs here
+- remove all data from src/App.js and put your own code
